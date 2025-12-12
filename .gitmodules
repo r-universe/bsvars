@@ -5,6 +5,9 @@
 [submodule "StealLikeBayes"]
 	path = StealLikeBayes
 	url = https://github.com/bsvars/steallikebayes
+[submodule "bpvars"]
+	path = bpvars
+	url = https://github.com/bsvars/bpvars
 [submodule "bsvarSIGNs"]
 	path = bsvarSIGNs
 	url = https://github.com/bsvars/bsvarsigns
